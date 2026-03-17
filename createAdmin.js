@@ -29,7 +29,7 @@ mongoose.connect(mongoUri, {
 // Admin credentials
 const adminData = {
   name: "Admin User",
-  email: "admin@admin.com",
+  email: "luckyjuniorschools@gmail.com",
   role: "admin",
   password: "admin123" // plaintext; will be hashed
 };

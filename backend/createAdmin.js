@@ -14,7 +14,7 @@ if (!mongoUri) {
 
 const adminData = {
   name: "Admin User",
-  email: "admin@admin.com",
+  email: "luckyjuniorschools@gmail.com",
   role: "admin",
   password: "admin123"
 };
